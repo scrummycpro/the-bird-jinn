@@ -1,4 +1,4 @@
-Sure, here's how you can create a `requirements.txt` file and a basic documentation file for your GitHub repository:
+
 
 
 
